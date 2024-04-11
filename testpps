@@ -1,0 +1,16 @@
+# Mi primer archivo Markdown
+
+Este es un ejemplo de cómo crear un archivo Markdown.
+
+Puedes usar diferentes tipos de formato, como:
+
+* **Negrita:** dos asteriscos (*) alrededor del texto
+* *Cursiva:* un asterisco (*) antes y después del texto
+* ## Encabezado 2: dos almohadillas (##) antes del texto
+* ### Encabezado 3: tres almohadillas (###) antes del texto
+
+También puedes crear listas:
+
+* Elemento de la lista 1
+* Elemento de la lista 2
+* Elemento de la lista 3
